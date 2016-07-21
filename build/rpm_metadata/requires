@@ -1,0 +1,4 @@
+Requires: pupmod-openldap >= 4.1.0-3
+Requires: pupmod-simpcat >= 4.0.0-0
+Requires: pupmod-simplib >= 1.0.0-0
+Obsoletes: pupmod-nscd-test >= 0.0.1
